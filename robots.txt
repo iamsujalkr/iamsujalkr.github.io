@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamsujalkr.github.io/sitemap.xml
