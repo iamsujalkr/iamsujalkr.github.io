@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpwncraft=globalThis.webpackChunkpwncraft||[]).push([[2634],{192(a,r,t){t.r(r),t.d(r,{default:()=>c});t(6540);var n=t(6347),u=t(4848);function c(){return(0,u.jsx)(n.rd,{to:"/pwnCraft"})}}}]);
